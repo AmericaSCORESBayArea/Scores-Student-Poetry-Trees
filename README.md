@@ -18,3 +18,13 @@ An interactive Web-App Showcase of Student Poems
 - Feedback loops: Can some people contribute to the tagging, scoring, and interpretation of poems?
 - Projected on the side of a building: Can this be a public, interactive, artpiece?
 
+### Challenge Questions
+- How can we include the adult poets who have spoken for Scores?
+- What kinds of audiences can we reach and what can we provide them, specifically? Donors? Fans?
+- What kinds of things can we add to Scores poetry tools to support the visual ecosystem?
+
+## How to Contribute to this Project
+1. Propose a design in markdown format and submit a pull request
+2. Propose a variation on an existing visualization by adding to the project, but provide a way for the variation to be turned on/off so that development can continue on more than one track
+3. Add a feature that addresses the quality/richness of the source data (e.g. tagging) and include a method for this to be tested
+4. Propose something that helps make the result more shareable, evolving, and viral
